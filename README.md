@@ -7,3 +7,5 @@ Actors
 - spawn other actors
 
 import {createMachine} from 'xstate;
+
+ - to call api use `fromPromise`
